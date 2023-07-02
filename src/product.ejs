@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <%- include('./components/head.ejs') %>
+  <title>Restorative hair mask</title>
+</head>
+
+<body class="wrapper">
+
+  <!-- HEADER -->
+  <%- include('./components/header.ejs') %>
+
+  <!-- BREADCRUMBS -->
+  <%- include('./components/breadcrumbs.ejs') %>
+
+  <!-- PRODUCT MAIN INFO -->
+  <main class="product-main">
+
+    <!-- PRODUCT IMAGE -->
+    <section class="product-main__image">
+    </section>
+
+    <!-- PRODUCT INFO -->
+    <div class="product-main__info">
+
+    </div>
+  </main>
+
+  <!-- PRODUCT INFO -->
+
+  <section class="product-main__info--container">
+    <div class="product-main__info--content">
+      <h1 class="product-title uppercase">Restorative Hair Mask</h1>
+      <span class="product-subtitle uppercase">Nurishment in a bottle</span>
+      <div class="product-details">
+        <div class="product-details__description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor
+          incididunt ut labore et dolore magna aliqua. Tempor commodo ullamcorper a lacus vestibulum. Luctus
+          accumsan
+          tortor posuere ac ut.
+        </div>
+        <div class="product-details__attributes">
+          <div class="product-attribute">
+            <img class="product-attribute__icon" src="./images/attribute-icon.svg" alt="organic product">
+            <span>100% Organic</span>
+          </div>
+          <div class="product-attribute">
+            <img class="product-attribute__icon" src="./images/attribute-icon.svg" alt="organic product">
+            <span>100% Organic</span>
+          </div>
+          <div class="product-attribute">
+            <img class="product-attribute__icon" src="./images/attribute-icon.svg" alt="organic product">
+            <span>100% Organic</span>
+          </div>
+          <div class="product-attribute">
+            <img class="product-attribute__icon" src="./images/attribute-icon.svg" alt="organic product">
+            <span>100% Organic</span>
+          </div>
+        </div>
+      </div>
+      <div class="product-payment">
+        <div class="product-payment__option">
+          <input type="radio" id="buyOnce" name="paymentOption" value="buyOnce" checked>
+          <label class="product-payment__option--label" for="buyOnce">Buy Once | $38</label><br>
+        </div>
+        <div class="product-payment__option">
+          <input type="radio" id="subscribe" name="paymentOption" value="subscribe">
+          <label class="product-payment__option--label" for="subscribe">Subscribe (SAVE 20%) |
+            <span class="subscribed-price">$30</span>
+          </label>
+        </div>
+      </div>
+      <div class="product-cta">
+        <div class="product-counter">
+          <button class="product-counter__buttons" id="decreaseCount">-</button>
+          <span class="counter">1</span>
+          <button class="product-counter__buttons" id="increaseCount">+</button>
+        </div>
+        <button class="product-cta__cart uppercase clickable">Add To Cart</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- PRODUCT ACCORDIAN -->
+  <%- include('./components/accordian') %>
+
+
+  <!-- PRODUCT CAROUSEL -->
+  <%- include('./components/product-carousel') %>
+
+  <script src="./scripts/index.js" type="module"></script>
+  <script src="./scripts/sidebar-scroll.js"></script>
+</body>
+
+</html>

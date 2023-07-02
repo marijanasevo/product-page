@@ -1,0 +1,20 @@
+{
+  "name": "black-lemon-coding-test",
+  "version": "1.0.0",
+  "source": "src/index.ejs",
+  "description": "",
+  "scripts": {
+    "dev": "parcel src/product.ejs",
+    "build": "parcel build src/product.ejs --public-url ./"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "@splidejs/splide": "^4.1.4",
+    "parcel-transformer-ejs": "^1.0.1",
+    "parcel": "^2.9.3",
+    "normalize.css": "^8.0.1"
+  }
+}

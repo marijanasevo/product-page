@@ -1,0 +1,78 @@
+[
+  {
+    "thumbnail": "act-plus-acre-logo.png",
+    "title": "Restorative hair mask",
+    "subtitle": "Nurishment in a Bottle",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tempor commodo ullamcorper a lacus vestibulum. Luctus accumsan tortor posuere ac ut.",
+    "attributes": [
+      {
+        "icon": "attribute-icon.svg",
+        "name": "100% organic"
+      },
+      {
+        "icon": "attribute-icon.svg",
+        "name": "100% organic"
+      },
+      {
+        "icon": "attribute-icon.svg",
+        "name": "100% organic"
+      },
+      {
+        "icon": "attribute-icon.svg",
+        "name": "100% organic"
+      }
+    ],
+    "accordian_info": [
+      {
+        "title": "Ingredients",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tempor commodo ullamcorper a lacus vestibulum. Luctus accumsan tortor posuere ac ut."
+      },
+      {
+        "title": "Ingredients",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tempor commodo ullamcorper a lacus vestibulum. Luctus accumsan tortor posuere ac ut."
+      },
+      {
+        "title": "Ingredients",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tempor commodo ullamcorper a lacus vestibulum. Luctus accumsan tortor posuere ac ut."
+      }
+    ]
+  },
+  {
+    "thumbnail": "act-plus-acre-logo.png",
+    "title": "Another product",
+    "subtitle": "Nurishment in a Bottle",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tempor commodo ullamcorper a lacus vestibulum. Luctus accumsan tortor posuere ac ut.",
+    "attributes": [
+      {
+        "icon": "attribute-icon.svg",
+        "name": "100% organic"
+      },
+      {
+        "icon": "attribute-icon.svg",
+        "name": "100% organic"
+      },
+      {
+        "icon": "attribute-icon.svg",
+        "name": "100% organic"
+      },
+      {
+        "icon": "attribute-icon.svg",
+        "name": "100% organic"
+      }
+    ],
+    "accordian_info": [
+      {
+        "title": "Ingredients",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tempor commodo ullamcorper a lacus vestibulum. Luctus accumsan tortor posuere ac ut."
+      },
+      {
+        "title": "Ingredients",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tempor commodo ullamcorper a lacus vestibulum. Luctus accumsan tortor posuere ac ut."
+      },
+      {
+        "title": "Ingredients",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tempor commodo ullamcorper a lacus vestibulum. Luctus accumsan tortor posuere ac ut."
+      }
+    ]
+  }
+]
